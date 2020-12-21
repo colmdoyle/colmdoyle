@@ -1,4 +1,4 @@
-### I'm Colm Doyle, and I lead the Developer Advocacy team at [Slack](https://api.slack.com)
+### Hello there, I'm Colm Doyle...
 
 ![On stage during WeAreDevelopers 2018](https://github.com/colmdoyle/colmdoyle/blob/main/on-stage-cropped.jpeg?raw=true)
 
