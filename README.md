@@ -14,4 +14,5 @@ Places you can find me on the internet
 
 - [@colmisainmdom](https://twitter.com/colmisainmdom) on Twitter
 - [LinkedIn](https://www.linkedin.com/in/colmdoyle/)
-- [Plain Ol' HTML](https://cdoyle.me)
+- [Blog posts](https://cdoyle.me)
+- [Klokta: A Podcast about technology, developer relations and more](https://cdoyle.me/pages/podcast)
