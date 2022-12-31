@@ -13,3 +13,4 @@ Places you can find me on the internet
 - [@colmisainmdom](https://twitter.com/colmisainmdom) on Twitter
 - [LinkedIn](https://www.linkedin.com/in/colmdoyle/)
 - [Blog posts](https://cdoyle.me)
+- <a href="https://mastodon.ie/@colmdoyle" rel="me">Mastodon</a>
