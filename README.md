@@ -5,7 +5,6 @@
 ### Newsletter
 
 [![](https://github.com/colmdoyle/colmdoyle/blob/main/subscribe.png?raw=true)](https://cdoyle.me/newsletter/)
-[![](subscribe.png?raw=true)](https://cdoyle.me/newsletter/)
 
 ### Places you can find me on the internet
 
